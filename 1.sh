@@ -1,4 +1,4 @@
 #!/bin/bash
-# Eu sou Tryber e...
+# Vou ter muito sucesso na programação!!
 FRASE="Shell Script é demais"
 echo $FRASE
